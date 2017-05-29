@@ -1,0 +1,8 @@
+-e git+https://github.com/fchollet/keras.git#egg=keras
+unicodecsv
+numpy
+jellyfish
+sklearn
+matplotlib
+h5py
+~    
